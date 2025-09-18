@@ -4,4 +4,4 @@ M = 1000;
 eps = .1;
 p = 0.4;
 
-[y, Fs]
+[y, Fs] = audioread('headlines.wav');
